@@ -31,6 +31,8 @@ Follow me on LinkedIn : [![](https://img.shields.io/badge/LinkedIn-0077B5?style=
 | 20    | Analyzing-CIA-Factbook-Data-Using-SQL                        | [👆](https://github.com/Ndo71292/Analyzing-CIA-Factbook-Data-Using-SQL) |
 | 21    | Clean-and-Analyze-Employee-Exit-Surveys                      | [👆](https://github.com/Ndo71292/Clean-and-Analyze-Employee-Exit-Surveys) |
 | 22    | 5 Machine learning Project for healthcare                    | [👆](https://medium.datadriveninvestor.com/5-machine-learning-projects-for-healthcare-bbd0eac57b4a) 
+| 22    | Natural Language processing on Twitter Dataset               | [👆](https://github.com/Ndo71292/Natural-Language-Processing-with-Disaster-Tweets) 
+
 
 ***More Projects list is coming...!!!***
 
