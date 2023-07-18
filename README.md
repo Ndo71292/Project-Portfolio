@@ -32,6 +32,8 @@ Follow me on LinkedIn : [![](https://img.shields.io/badge/LinkedIn-0077B5?style=
 | 21    | Clean-and-Analyze-Employee-Exit-Surveys                      | [👆](https://github.com/Ndo71292/Clean-and-Analyze-Employee-Exit-Surveys) |
 | 22    | 5 Machine learning Project for healthcare                    | [👆](https://medium.datadriveninvestor.com/5-machine-learning-projects-for-healthcare-bbd0eac57b4a) 
 | 23    | Natural Language processing on Twitter Dataset               | [👆](https://github.com/Ndo71292/Natural-Language-Processing-with-Disaster-Tweets) 
+| 24    | Digit Recognizer computer vision with the MNIST data         | [👆](https://github.com/Ndo71292/Digital-Recognizer-Computer-Vision-Project/blob/main/Digital%20Recognizer/Digital%20Recognizer.ipynb)| 
+
 
 
 ***More Projects list is coming...!!!***
