@@ -11,7 +11,7 @@ Follow me on LinkedIn : [![](https://img.shields.io/badge/LinkedIn-0077B5?style=
 | ----- | ------------------------------------------------------------ | ------------------------------------------------------------ |
 | 1     | Swahili-News-Classification                                  | [👆](https://github.com/Ndo71292/Swahili-News-Classification) |  
 | 2     | Root-Cause-Analysis-of-Atera-Data                            | [👆](https://github.com/Ndo71292/Root-Cause-Analysis-of-Atera-Data) |
-| 3     | Exploring-Hacker-News-Posts                                  | [👆](https://github.com/Ndo71292/Exploring-Hacker-News-Posts) |
+| 3     | Flight-Delay-Prediction                                      | [👆](https://github.com/Ndo71292/Flight-delay-prediction/blob/main/README.md)
 | 4     | Exploring-eBay-Car-Sales-Data                                | [👆](https://github.com/Ndo71292/Exploring-eBay-Car-Sales-Data) |
 | 5     | Customer-Segmentation                                        | [👆](https://github.com/Ndo71292/Customer-Segmentation)        |
 | 6     | Project_-Storytelling-Data-Visualization-on-Exchange-Rate    | [👆](https://github.com/Ndo71292/Project_-Storytelling-Data-Visualization-on-Exchange-Rates) |
@@ -35,6 +35,8 @@ Follow me on LinkedIn : [![](https://img.shields.io/badge/LinkedIn-0077B5?style=
 | 24    | 5 Machine learning Project for healthcare                    | [👆](https://medium.datadriveninvestor.com/5-machine-learning-projects-for-healthcare-bbd0eac57b4a) 
 | 25    | Natural Language processing on Twitter Dataset               | [👆](https://github.com/Ndo71292/Natural-Language-Processing-with-Disaster-Tweets) 
 | 26    | Digit Recognizer computer vision with the MNIST data         | [👆](https://github.com/Ndo71292/Digital-Recognizer-Computer-Vision-Project/blob/main/Digital%20Recognizer/Digital%20Recognizer.ipynb)| 
+| 27     | Exploring-Hacker-News-Posts                                 | [👆](https://github.com/Ndo71292/Exploring-Hacker-News-Posts) |
+
 
 
 
